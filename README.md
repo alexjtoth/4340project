@@ -1,5 +1,9 @@
 # 4340project
 
+Data source: https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/cfpb-consumer-complaint-database-narratives-archive/
+
+Description from source: Archive of consumer complaints received December 1, 2011 through August 14, 2026 that were previously published in the Consumer Complaint Database.
+
 The business question would be: How accurately and cost-effectively can a GenAI model classify consumer complaint narratives into product categories to support human routing?
 
 A manageable workflow would be:
